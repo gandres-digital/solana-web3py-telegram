@@ -5,7 +5,7 @@ import os
 
 
 # Token del bot de Telegram (el que te dio BotFather)
-TOKEN = "7949576925:AAGIixBC1FYGcRTOm4UD98oNTZXUGbgrAFg"
+TOKEN = "VAR"
 
 # Crear la aplicación con el token
 application = Application.builder().token(TOKEN).build()
